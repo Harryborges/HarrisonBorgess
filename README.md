@@ -2,8 +2,8 @@
 <h1 align="center">:wave:Hi, I'm Harrison</h1>
 <p align="center">
 
+![Group 1 (1)](https://user-images.githubusercontent.com/73191690/151260507-7a91c146-21f7-4956-89c5-166a4526a69b.png)
 
-![Group 1](https://user-images.githubusercontent.com/73191690/151250819-93e5ad7c-11f7-4b4f-a4ac-7f390ffb0077.png) 
 
 ### 🎓 Currently studying software engineering at the catholic university of Salvador,Brazil;
 ### 💻Always looking to learn new technologies;
